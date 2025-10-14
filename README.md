@@ -40,3 +40,11 @@ Fraction: -3/4
 $ python fuel.py
 Fraction: three/four
 # Vuelve a pedir la fracción
+```
+## ✅ Cómo ejecutar las pruebas
+Asegúrate de tener pytest instalado. Luego ejecuta:
+
+```bash
+pytest test_fuel.py
+```
+Esto verificará que tus funciones convert y gauge se comporten correctamente en todos los casos relevantes.
