@@ -14,3 +14,4 @@ Este proyecto es un script en Python que permite consultar el precio actual de B
 2. Instala las dependencias necesarias:
    ```bash
    pip install requests
+© 2025 - Proyecto educativo para practicar el uso de APIs y manejo de errores en Python.
