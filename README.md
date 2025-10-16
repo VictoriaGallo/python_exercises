@@ -22,7 +22,6 @@ El proyecto consta de los siguientes archivos:
   - pandas
   - matplotlib
   - requests
-  - Pillow
 
 - `SoccerWikiJugadorColombiacsv`: Archivo de datos con información sobre jugadores colombianos. Este archivo debe estar en el directorio raíz del proyecto para que las funciones puedan encontrarlo correctamente.
 
